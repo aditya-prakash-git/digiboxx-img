@@ -20,15 +20,15 @@ export default function LandingPage() {
         <div className="mx-auto max-w-2xl py-8">
           <div className="text-center">
             <Image
-              src="/logo.png"
+              src="/og-logo.png"
               width="200"
               height="200"
-              alt="file drive logo"
+              alt="digiboxx logo"
               className="inline-block mb-8"
             />
 
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              The easiest way to upload and share files with your company
+              The best way to share and store your dearest files on our cloud platform.
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
               Make and account and start managing your files in less than a
