@@ -6,7 +6,7 @@ export function Footer() {
       <div className="container mx-auto flex justify-between items-center">
         <div>DigiBoxx</div>
 
-        <Link className="text-blue-900 hover:text-blue-500" href="/privacy">
+        <Link className="text-blue-900 hover:text-blue-500" href="https://digiboxx.com/">
           Privacy Policy
         </Link>
         <Link
